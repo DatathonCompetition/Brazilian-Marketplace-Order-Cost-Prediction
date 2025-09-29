@@ -21,22 +21,7 @@ Our team **Gryffindor** proudly achieved **1st place 🏆** in this competition.
 4. **Modeling** – experimented with different ML models and tuned hyperparameters  
 5. **Evaluation** – selected the best-performing model based on competition metric  
 
----
 
-## 📊 Exploratory Data Analysis (EDA)
-
-Here are some key visualizations from our analysis:
-
-<p align="center">
-  <img src="images/orders_distribution.png" alt="Orders Distribution" width="400"/>
-  <img src="images/payment_types.png" alt="Payment Types" width="400"/>
-</p>
-
-<p align="center">
-  <img src="images/correlation_heatmap.png" alt="Correlation Heatmap" width="600"/>
-</p>
-
----
 
 ## 🛠️ Technologies Used
 
@@ -66,6 +51,6 @@ Here are some key visualizations from our analysis:
 ---
 
 ## 📂 Repository Structure
-├── Competition Notebook.ipynb # Main notebook with full pipeline
-├── images/ # Folder with EDA plots & charts
-├── README.md # Project documentation
+- Competition Notebook.ipynb # Main notebook with full pipeline
+- images/ # Folder with EDA plots & charts
+- README.md # Project documentation
